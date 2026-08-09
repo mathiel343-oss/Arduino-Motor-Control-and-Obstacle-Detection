@@ -36,4 +36,4 @@ https://github.com/user-attachments/assets/1caef612-e6f0-4eaf-a942-c28183af3d2e
 
 You can view and run the complete circuit simulation on Tinkercad:
 
-🔗 **[Open Tinkercad Circuit]([TINKERCAD_LINK](https://www.tinkercad.com/things/8X98jASBM8T/editel?returnTo=%2Fdashboard))**
+https://www.tinkercad.com/things/8X98jASBM8T/editel?returnTo=%2Fdashboard
